@@ -15,4 +15,8 @@ Joint work by (in alphabetical order):
 
 - `Hospital_Readmission_Prediction_Ensemble.ipynb` — Full pipeline: data preprocessing, feature engineering, model training and evaluation. Compares logistic regression, random forest, gradient boosting, and stacking ensembles.
 - `Final_Report.pdf` — Written report.
-- `data/` — Project dataset.
+- `data/` — Project dataset (download separately, see below).
+
+## Data
+
+The dataset is from the course's public Kaggle competition. Download the files (`train.csv`, `valid.csv`, `test.csv`, `ehr_preprocessed_seq_by_day_cat_embedding.pkl`) and place them under `data/` next to the notebook. Notebook paths assume this layout.
